@@ -1,0 +1,16 @@
+body {
+	background-color: lightyellow;
+}
+
+
+#orange-book {
+	width: 150 px;
+	height: 200px;
+	background-color: orangered;
+}
+
+#book-top {
+	width:18 px;
+	height:20px;
+	background-color: yellowgreen;
+}
